@@ -1,0 +1,10 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "password",
+    "database": "typescript_crud_db"
+  },
+  "secret": "your-super-secret-jwt-key-change-in-production"
+}
